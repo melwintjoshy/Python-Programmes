@@ -15,5 +15,3 @@ Python Programming Lab - OOPS Concepts
 	10.	Write a Python program to create a bank class that includes methods for managing customer accounts and transactions (like deposits and withdrawals).
 	11.	Create a Vehicle class and derive classes such as Car and Bus from it, implementing shared attributes and methods like seating capacity.
 	12.	Write a program to determine which class an object belongs to using the type() function in Python.
-
-Let me know if you’d like any further assistance with these topics! ￼
